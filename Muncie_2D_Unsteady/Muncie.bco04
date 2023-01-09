@@ -1,0 +1,76 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  Muncie.prj
+ 
+Project Name:  Muncie 2D Flow Area
+ 
+ 
+Plan Name:     Unsteady Run with 2D 50ft User n Value R
+ 
+Short ID:      50ft User n Regions
+ 
+
+Starting Time:   01Jan1900 2400
+
+Ending Time:     02Jan1900 2400
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 6.1 September               #
+                #                                              #
+                #             09JAN23 at 04:11:48              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+
+
+                 ***   Volume Accounting for 1D Flow Area in Acre Feet   ***
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+            36674.          33464.                                                                                                
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+             294.2           1573.                                
+
+ 
+
+
+
+                 ***   Volume Accounting for 2D Flow Area in Acre Feet   ***
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****   *************
+ 
+ 
+  2D Interior Area                           1930.           4215.           2285.          0.3132        0.007431
+
+
+
+                 ***   Total Volume Accounting (for the entire model) in Acre Feet   ***
+
+Total Boundary Flux of Water In           36674.
+Total Boundary Flux of Water Out          33464.
+
+Starting Volume                            294.2
+Ending Volume                              3502.
+
+
+                             Error   Percent Error
+                             *****   *************
+                         -1.813589        0.004906
+
+
+
